@@ -1,0 +1,8 @@
+[versions]
+paper = "1.21.10-R0.1-SNAPSHOT"
+
+[libraries]
+
+[plugins]
+paperweightUserdev = {id = "io.papermc.paperweight.userdev", version = "2.0.0-beta.19"}
+runPaper = {id = "xyz.jpenilla.run-paper", version = "3.0.2"}

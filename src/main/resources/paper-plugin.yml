@@ -1,0 +1,7 @@
+name: SylfareTweaks
+version: '1.0-SNAPSHOT'
+main: re.sylfa.sylfaretweaks.SylfareTweaks
+api-version: '1.21'
+prefix: SylfareTweaks
+load: STARTUP
+authors: [Sylfare]
